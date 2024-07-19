@@ -4,4 +4,7 @@
 
 
 ![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-	![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![js](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+
+![image](https://github.com/user-attachments/assets/f57b94d6-287b-4ef5-9c7e-853632287bb2)
