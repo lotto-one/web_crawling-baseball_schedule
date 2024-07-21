@@ -1,5 +1,6 @@
-<h2>주제: 네이버 야구 경기일정을 크롤링을 통해 데이터 전처리, 시각화 코드 개발 및 
-Django와 Spring의 CORS 통신을 통해 수집한 데이터를 사용하여 서비스를 제공</h2>
+## 프로젝트 주제
+네이버 야구 경기일정을 크롤링을 통해 데이터수집과 전처리 및 시각화 코드개발
+Spring과 DJango의 CORS 통신을 통해 수집한 데이터를 활용하여 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
